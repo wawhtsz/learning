@@ -3,3 +3,4 @@ GIt is really good
 Git is good
 I do not 
 git has a mutable index called stage
+i andk kdj
